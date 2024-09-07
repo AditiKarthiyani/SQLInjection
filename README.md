@@ -1,7 +1,7 @@
 # SQL Injection
 
 ## Basic Overview 
-QL injection is a common web vulnerability that occurs when an attacker can inject malicious SQL queries into input fields of a website, potentially gaining unauthorized access to databases.This is a basic scanner that primarily checks for error-based SQL injection vulnerabilities. It does not handle more advanced cases like blind or time-based SQL injection.
+SQL injection is a common web vulnerability that occurs when an attacker can inject malicious SQL queries into input fields of a website, potentially gaining unauthorized access to databases.This is a basic scanner that primarily checks for error-based SQL injection vulnerabilities. It does not handle more advanced cases like blind or time-based SQL injection.
 
 ## Code Breakdown 
 
